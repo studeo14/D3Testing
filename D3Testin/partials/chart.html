@@ -1,0 +1,35 @@
+<div
+        id="maindiv-{{chartId}}"
+        ng-class="(isHovering || isPoppedOut)?('panel panel-primary'):('panel panel-default')"
+        ng-mouseover="isHovering = true;"
+        ng-mouseleave="isHovering = false;"
+        style="overflow: hidden;"
+
+        data-drag="isPoppedOut"
+
+
+        >
+    <!--data-jqyoui-options="{zIndex: 100,handle: '#handle-{{chartId}}'}" jqyoui-draggable="{onDrag :'dragHappened()'}"-->
+    <div class="panel-heading" style="overflow: auto;/*cursor: move;*/" ng-show="isPoppedOut" id="handle-{{chartId}}">
+        {{title}}
+    </div>
+    <div class="panel-body"  style="overflow: auto;" ng-show="!isLoading && hasData" >
+        <div class="row-fluid" ng>
+            <div class="col-md-12 text-center" ng-hide="isPoppedOut" >
+                <h4>{{title}}</h4>
+            </div>
+        </div>
+        <div class="row-fluid">
+            <div class="col-md-12 text-center">
+                <div id="{{chartId}}" style="margin: auto; width: 100%;"></div>
+            </div>
+        </div>
+    </div>
+    <div class="panel-body"  style="overflow: auto;" ng-show="!hasData && !isLoading" >
+        {{noDataMessage}}
+    </div>
+    <div class="panel-body"  style="overflow: auto;" ng-show="isLoading" >
+        {{loadingMessage}}
+    </div>
+
+</div>
