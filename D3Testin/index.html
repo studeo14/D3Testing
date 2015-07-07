@@ -23,7 +23,7 @@
     <![endif]-->
 </head>
 
-<body ng-app="myApp.main" ng-controller="mainController">
+<body ng-app="myApp" ng-controller="MainController" ng-hint>
 
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
@@ -53,13 +53,13 @@
     <div id="Home" class="col-md-12">
         <span>
             <div class="col-md-4">
-                <cool-heading  content="content" ng-click="display('HELLO')"></cool-heading>
+                <cool-heading content="heller there"></cool-heading>
             </div>
-            <div class="col-md-4"ng-click="display('HELLO')">
+            <div class="col-md-4" ng-click="display('HELLO')">
                 <div class="col-md-12 block"></div>
             </div>
             <div class="col-md-4">
-                <div class="col-md-12 block"></div>
+                <steve-chart title="Test Chart"></steve-chart>
             </div>
         </span>
     </div>
@@ -106,5 +106,6 @@
 <script src="scripts/chartsDirective.js"></script>
 <script src="scripts/mainModule.js"></script>
 <script src="scripts/coolHeadingDirective.js"></script>
+
 
 </body></html>

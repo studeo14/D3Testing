@@ -58,7 +58,7 @@
                 },
                 restrict: "E",
                 replace: true,
-                controller: 'chartController',
+                controller: 'ChartController',
                 templateUrl: 'partials/chart.html',
                 link: function(scope, elem, attrs, chartController){
                     chartController.init(elem);
@@ -66,9 +66,9 @@
 
             };
         })
-        .controller('chartController', function($scope, $filter){
+        .controller('ChartController', function($scope, $filter){
             this.init = function(element){
-                alert(element);
+                console.log('Created Chart ' + $scope.chartID);
             }
         })
 

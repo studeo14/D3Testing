@@ -6,11 +6,8 @@
 
     angular.module("myApp.main",[])
 
-        .controller("mainController",function($scope, $window){
+        .controller("MainController",function($scope, $window){
 
-            $scope.display = function(key){
-                alert(key);
-            };
             /*
              Helper functions
              */
@@ -52,22 +49,6 @@
                 }
             ];
         })
-        .controller('coolController',['$scope', function ($scope) {
-            $scope.content = "Woops! Nothing There!";
-            $scope.display = function(){
-                alert($scope.content);
-            };
-        }])
 
-        .directive('coolHeading', function () {
-            return {
-                restrict: 'E',
-                scope: {
-                    content: '@'
-                },
-                controller: 'coolController',
-                template: '<div class="col-md-12 panel-primary"><span><div class="panel-heading"><h2 class="text-capitalize text-center">Content: {{ content }}</h2> </div> </span> </div>'
-            };
-        })
     ;
 }());

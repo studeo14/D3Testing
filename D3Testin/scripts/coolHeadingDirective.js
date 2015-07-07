@@ -6,8 +6,8 @@
 
     angular.module('myApp.coolHeadingModule', [])
 
-        .controller('coolController',['$scope', function ($scope) {
-            $scope.content = "Woops! Nothing There!";
+        .controller('CoolController',['$scope', function ($scope) {
+            $scope.content = ($scope.content)?$scope.content:"Woops! Nothing There!";
             $scope.display = function(){
                 alert($scope.content);
             };
@@ -19,8 +19,8 @@
                 scope: {
                     content: '@'
                 },
-                controller: 'coolController',
-                template: '<div class="col-md-12 panel-primary"><span><div class="panel-heading"><h2 class="text-capitalize text-center">Content: {{ content }}</h2> </div> </span> </div>'
+                controller: 'CoolController',
+                templateUrl: 'partials/coolHeading.html'
             };
         })
 
