@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9254fb83-8d06-4823-b4ba-d6aeb996bd16" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/base-partial.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/angular/angular.min.js.gzip" afterPath="$PROJECT_DIR$/res/bower_components/angular/angular.min.js.gzip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/ep/blank.gif" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/ep/blank.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/dc.logo.png" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/dc.logo.png" />
@@ -18,12 +19,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/angular/.bower.json" afterPath="$PROJECT_DIR$/res/bower_components/angular/.bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/.bower.json" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/.bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/.bower.json" afterPath="$PROJECT_DIR$/res/bower_components/jquery/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/.bowerrc" afterPath="$PROJECT_DIR$/res/node_modules/jquery/.bowerrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/.csscomb.json" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/.csscomb.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/.csslintrc" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/.csslintrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/.gitattributes" afterPath="$PROJECT_DIR$/res/node_modules/d3/.gitattributes" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/.gitattributes" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/.gitattributes" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/js/.jscsrc" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/js/.jscsrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/.jscsrc" afterPath="$PROJECT_DIR$/res/node_modules/dc/.jscsrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/.jscsrc" afterPath="$PROJECT_DIR$/res/node_modules/jquery/.jscsrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/grunt/.jshintrc" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/grunt/.jshintrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/js/.jshintrc" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/js/.jshintrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/.jshintrc" afterPath="$PROJECT_DIR$/res/node_modules/dc/.jshintrc" />
@@ -34,20 +37,24 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/.npmignore" afterPath="$PROJECT_DIR$/res/node_modules/dc/.npmignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/.npmignore" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/.npmignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/.npmignore" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/.npmignore" afterPath="$PROJECT_DIR$/res/node_modules/jquery/.npmignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/.spmignore" afterPath="$PROJECT_DIR$/res/node_modules/d3/.spmignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/.spmignore" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/.spmignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/crossfilter/.travis.yml" afterPath="$PROJECT_DIR$/res/node_modules/crossfilter/.travis.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/.travis.yml" afterPath="$PROJECT_DIR$/res/node_modules/dc/.travis.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/.travis.yml" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/AUTHORS.txt" afterPath="$PROJECT_DIR$/res/node_modules/jquery/AUTHORS.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/AUTHORS" afterPath="$PROJECT_DIR$/res/node_modules/dc/AUTHORS" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/crossfilter/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/res/node_modules/crossfilter/CONTRIBUTING.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/res/node_modules/d3/CONTRIBUTING.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/res/node_modules/dc/CONTRIBUTING.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/CONTRIBUTING.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/res/node_modules/jquery/CONTRIBUTING.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/Changelog.md" afterPath="$PROJECT_DIR$/res/node_modules/dc/Changelog.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/D3Testin.iml" afterPath="$PROJECT_DIR$/.idea/D3Testin.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/data/Data.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/data/Data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/data/Data.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/data/Data.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/Gruntfile.js" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/Gruntfile.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/Gruntfile.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/Gruntfile.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/LICENSE" afterPath="$PROJECT_DIR$/res/LICENSE" />
@@ -59,6 +66,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/LICENSE" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/LICENSE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/LICENSE_BANNER" afterPath="$PROJECT_DIR$/res/node_modules/dc/LICENSE_BANNER" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/MIT-LICENSE.txt" afterPath="$PROJECT_DIR$/res/bower_components/jquery/MIT-LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/MIT-LICENSE.txt" afterPath="$PROJECT_DIR$/res/node_modules/jquery/MIT-LICENSE.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/crossfilter/Makefile" afterPath="$PROJECT_DIR$/res/node_modules/crossfilter/Makefile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/Makefile" afterPath="$PROJECT_DIR$/res/node_modules/d3/Makefile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/Makefile" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/Makefile" />
@@ -70,18 +78,26 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/README.md" afterPath="$PROJECT_DIR$/res/node_modules/dc/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/README.md" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/README.md" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/README.md" afterPath="$PROJECT_DIR$/res/node_modules/jquery/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/effects/Tween.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/effects/Tween.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/effects/Tween.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/effects/Tween.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/manipulation/_evalUrl.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/manipulation/_evalUrl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/manipulation/_evalUrl.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/manipulation/_evalUrl.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/math/abs.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/math/abs.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/math/abs.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/math/abs.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/data/accepts.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/data/accepts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/data/accepts.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/data/accepts.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/core/access.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/core/access.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/core/access.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/core/access.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/css/addGetHookIf.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/css/addGetHookIf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/css/addGetHookIf.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/css/addGetHookIf.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/math/adder.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/math/adder.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/math/adder.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/math/adder.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/js/affix.js" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/js/affix.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/event/ajax.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/event/ajax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/event/ajax.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/event/ajax.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geo/albers-usa.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geo/albers-usa.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/albers-usa.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/albers-usa.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geo/albers.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geo/albers.js" />
@@ -90,12 +106,15 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/alerts.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/alerts.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/alerts.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/alerts.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/event/alias.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/event/alias.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/event/alias.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/event/alias.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/exports/amd.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/exports/amd.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/exports/amd.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/exports/amd.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/angular/angular-csp.css" afterPath="$PROJECT_DIR$/res/bower_components/angular/angular-csp.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/angular/angular.js" afterPath="$PROJECT_DIR$/res/bower_components/angular/angular.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/angular/angular.min.js.map" afterPath="$PROJECT_DIR$/res/bower_components/angular/angular.min.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/angular/angular.min.js" afterPath="$PROJECT_DIR$/res/bower_components/angular/angular.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/effects/animatedSelector.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/effects/animatedSelector.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/effects/animatedSelector.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/effects/animatedSelector.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/docs/api-1.5.0.md" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/docs/api-1.5.0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/docs/api-1.6.0.md" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/docs/api-1.6.0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/docs/api-1.7.0.md" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/docs/api-1.7.0.md" />
@@ -115,6 +134,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/area.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/area.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/svg/area.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/svg/area.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/var/arr.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/var/arr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/var/arr.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/var/arr.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/crossfilter/src/array.js" afterPath="$PROJECT_DIR$/res/node_modules/crossfilter/src/array.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/compat/array.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/compat/array.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/core/array.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/core/array.js" />
@@ -130,7 +150,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/transition/attr.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/transition/attr.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/attr.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/attr.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/transition/attr.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/transition/attr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/attributes/attr.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/attributes/attr.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/attributes.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/attributes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/attributes.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/attributes.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/svg/axis.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/svg/axis.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/svg/axis.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/svg/axis.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geo/azimuthal-equal-area.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geo/azimuthal-equal-area.js" />
@@ -180,6 +202,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/bower.json" afterPath="$PROJECT_DIR$/res/node_modules/d3/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/bower.json" afterPath="$PROJECT_DIR$/res/node_modules/dc/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/bower.json" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/bower.json" afterPath="$PROJECT_DIR$/res/node_modules/jquery/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/spec/box-plot-spec.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/spec/box-plot-spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/examples/box-plot-time.html" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/examples/box-plot-time.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/examples/box-plot.html" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/examples/box-plot.html" />
@@ -207,6 +230,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/selection/call.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/selection/call.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/call.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/call.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/callbacks.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/callbacks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/callbacks.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/callbacks.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/crime/canada_map.svg" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/crime/canada_map.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/src/cap-mixin.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/src/cap-mixin.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/js/carousel.js" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/js/carousel.js" />
@@ -233,9 +257,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/core/class.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/core/class.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/core/class.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/core/class.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/var/class2type.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/var/class2type.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/var/class2type.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/var/class2type.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/selection/classed.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/selection/classed.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/classed.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/classed.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/attributes/classes.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/attributes/classes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/attributes/classes.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/attributes/classes.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/clearfix.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/clearfix.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geo/clip-antimeridian.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geo/clip-antimeridian.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/clip-antimeridian.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/clip-antimeridian.js" />
@@ -280,6 +306,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/src/composite-chart.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/src/composite-chart.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/examples/composite.html" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/examples/composite.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/var/concat.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/var/concat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/var/concat.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/var/concat.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/grunt/configBridge.json" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/grunt/configBridge.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geo/conic-conformal.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geo/conic-conformal.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/conic-conformal.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/conic-conformal.js" />
@@ -296,6 +323,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/spec/core-spec.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/spec/core-spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/core.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/core.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/src/core.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/src/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/core.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/core.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/docs/coverage.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/docs/coverage.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/crime/crime.csv" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/crime/crime.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/crossfilter/crossfilter.js" afterPath="$PROJECT_DIR$/res/node_modules/crossfilter/crossfilter.js" />
@@ -306,10 +334,13 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/crossfilter/crossfilter.min.js" afterPath="$PROJECT_DIR$/res/node_modules/crossfilter/crossfilter.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/crossfilter.min.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/crossfilter.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/css.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/css.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/css.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/css.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/css/var/cssExpand.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/css/var/cssExpand.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/css/var/cssExpand.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/css/var/cssExpand.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/dsv/csv.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/dsv/csv.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/dsv/csv.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/dsv/csv.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/css/curCSS.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/css/curCSS.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/css/curCSS.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/css/curCSS.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/examples/cust.html" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/examples/cust.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/spec/helpers/custom_matchers.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/spec/helpers/custom_matchers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/src/d3.box.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/src/d3.box.js" />
@@ -330,8 +361,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/data.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/data.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/selection/data.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/selection/data.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/data.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/data.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/data.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/data.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/data/var/data_priv.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/data/var/data_priv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/data/var/data_priv.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/data/var/data_priv.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/data/var/data_user.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/data/var/data_user.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/data/var/data_user.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/data/var/data_user.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/compat/date.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/compat/date.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/compat/date.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/compat/date.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/selection/datum.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/selection/datum.js" />
@@ -351,13 +385,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/locale/de-DE.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/locale/de-DE.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/de-DE.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/de-DE.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/css/defaultDisplay.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/css/defaultDisplay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/css/defaultDisplay.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/css/defaultDisplay.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/deferred.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/deferred.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/deferred.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/deferred.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geom/delaunay.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geom/delaunay.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geom/delaunay.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geom/delaunay.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/queue/delay.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/queue/delay.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/transition/delay.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/transition/delay.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/transition/delay.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/transition/delay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/queue/delay.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/queue/delay.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/deprecated.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/deprecated.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/deprecated.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/deprecated.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/descending.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/descending.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/descending.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/descending.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/deviation.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/deviation.js" />
@@ -367,6 +405,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/svg/diagonal.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/svg/diagonal.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/svg/diagonal.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/svg/diagonal.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/dimensions.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/dimensions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/dimensions.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/dimensions.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/event/dispatch.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/event/dispatch.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/event/dispatch.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/event/dispatch.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geo/distance.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geo/distance.js" />
@@ -395,8 +434,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geom/voronoi/edge.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geom/voronoi/edge.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geom/voronoi/edge.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geom/voronoi/edge.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/effects.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/effects.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/effects.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/effects.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/selection/empty.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/selection/empty.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/empty.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/empty.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/data/empty.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/data/empty.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/locale/en-CA.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/locale/en-CA.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/en-CA.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/en-CA.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/locale/en-GB.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/locale/en-GB.js" />
@@ -423,7 +464,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/event.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/event.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/event/event.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/event/event.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/event/event.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/event/event.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/event.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/event.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/src/events.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/src/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/unit/extending.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/unit/extending.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/extent.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/extent.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/extent.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/extent.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/locale/fi-FI.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/locale/fi-FI.js" />
@@ -439,6 +482,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/spec/filters-spec.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/spec/filters-spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/src/filters.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/src/filters.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/traversing/findFilter.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/traversing/findFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/traversing/findFilter.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/traversing/findFilter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/spec/helpers/fixtures.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/spec/helpers/fixtures.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/src/footer.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/src/footer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/layout/force.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/layout/force.js" />
@@ -470,7 +514,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geom/geom.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geom/geom.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geom/geom.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geom/geom.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/css/var/getStyles.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/css/var/getStyles.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/css/var/getStyles.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/css/var/getStyles.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/exports/global.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/exports/global.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/exports/global.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/exports/global.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/glyphicons.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/glyphicons.less" />
@@ -485,6 +531,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/grid.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/grid.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/grid.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/grid.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/var/hasOwn.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/var/hasOwn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/var/hasOwn.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/var/hasOwn.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/color/hcl.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/color/hcl.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/interpolate/hcl.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/interpolate/hcl.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/color/hcl.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/color/hcl.js" />
@@ -500,6 +547,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/spec/heatmap-spec.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/spec/heatmap-spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/src/heatmap.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/src/heatmap.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/css/hiddenVisibleSelectors.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/css/hiddenVisibleSelectors.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/hide-text.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/hide-text.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/layout/hierarchy.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/layout/hierarchy.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/layout/hierarchy.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/layout/hierarchy.js" />
@@ -532,6 +580,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/examples/index.html" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/examples/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/transitions/index.html" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/transitions/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/vc/index.html" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/vc/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/index.html" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/angular/index.js" afterPath="$PROJECT_DIR$/res/bower_components/angular/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/crossfilter/index.js" afterPath="$PROJECT_DIR$/res/node_modules/crossfilter/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/index.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/index.js" />
@@ -579,7 +628,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/transition/index.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/transition/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/xhr/index.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/xhr/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/var/indexOf.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/var/indexOf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/var/indexOf.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/var/indexOf.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/core/init.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/core/init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/core/init.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/core/init.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/regression/inject-serializer.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/regression/inject-serializer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/input-groups.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/input-groups.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/selection/insert.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/selection/insert.js" />
@@ -595,17 +646,25 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/time/interval.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/time/interval.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/time/interval.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/time/interval.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/intro.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/intro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/intro.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/intro.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/css/var/isHidden.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/css/var/isHidden.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/css/var/isHidden.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/css/var/isHidden.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/locale/it-IT.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/locale/it-IT.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/it-IT.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/it-IT.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/spec/helpers/jasmine-jsreporter.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/spec/helpers/jasmine-jsreporter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/dist/jquery.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/dist/jquery.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/jquery.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/dist/jquery.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/dist/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/jquery.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/jquery.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/jquery.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/dist/jquery.min.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/dist/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/dist/jquery.min.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/dist/jquery.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/dist/jquery.min.map" afterPath="$PROJECT_DIR$/res/bower_components/jquery/dist/jquery.min.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/dist/jquery.min.map" afterPath="$PROJECT_DIR$/res/node_modules/jquery/dist/jquery.min.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/xhr/json.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/xhr/json.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/xhr/json.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/xhr/json.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/jsonp.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/jsonp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/jsonp.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/jsonp.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/jumbotron.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/jumbotron.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/keys.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/keys.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/keys.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/keys.js" />
@@ -634,6 +693,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/list-group.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/list-group.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/ep/list.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/ep/list.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/load.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/load.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/load.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/load.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/locale/locale.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/locale/locale.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/locale.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/locale.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/scale/log.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/scale/log.js" />
@@ -643,6 +703,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/main.css" afterPath="$PROJECT_DIR$/styles/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/mainModule.js" afterPath="$PROJECT_DIR$/scripts/mainModule.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/manipulation.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/manipulation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/manipulation.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/manipulation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/map.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/map.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/map.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/map.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/src/margin-mixin.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/src/margin-mixin.js" />
@@ -665,6 +726,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/time/minute.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/time/minute.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/time/minute.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/time/minute.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/data/mixed_sort.html" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/data/mixed_sort.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/locale/mk-MK.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/locale/mk-MK.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/mk-MK.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/mk-MK.js" />
@@ -695,6 +757,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/selection/node.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/selection/node.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/node.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/node.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/var/nonce.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/var/nonce.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/var/nonce.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/var/nonce.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/core/noop.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/core/noop.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/core/noop.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/core/noop.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/normalize.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/normalize.less" />
@@ -715,6 +778,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/interpolate/object.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/interpolate/object.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/interpolate/object.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/interpolate/object.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/offset.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/offset.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/offset.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/offset.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/selection/on.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/selection/on.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/on.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/on.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/opacity.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/opacity.less" />
@@ -726,6 +790,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geo/orthographic.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geo/orthographic.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/orthographic.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/orthographic.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/outro.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/outro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/outro.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/outro.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/layout/pack.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/layout/pack.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/layout/pack.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/layout/pack.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/package.js" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/package.js" />
@@ -738,6 +803,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/package.json" afterPath="$PROJECT_DIR$/res/node_modules/dc/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/package.json" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/package.json" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/package.json" afterPath="$PROJECT_DIR$/res/node_modules/jquery/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/pager.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/pager.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/pagination.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/pagination.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/pagination.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/pagination.less" />
@@ -746,8 +812,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/panels.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/panels.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/panels.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/panels.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/core/parseHTML.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/core/parseHTML.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/core/parseHTML.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/core/parseHTML.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/parseJSON.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/parseJSON.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/parseJSON.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/parseJSON.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/parseXML.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/parseXML.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/parseXML.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/parseXML.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/layout/partition.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/layout/partition.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/layout/partition.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/layout/partition.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geo/path-area.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geo/path-area.js" />
@@ -776,6 +845,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/pl-PL.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/pl-PL.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/play-ground.html" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/play-ground.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/var/pnum.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/var/pnum.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/var/pnum.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/var/pnum.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geo/point-in-polygon.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geo/point-in-polygon.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/point-in-polygon.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/point-in-polygon.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geom/point.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geom/point.js" />
@@ -797,11 +867,13 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geo/projection.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geo/projection.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/projection.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/projection.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/attributes/prop.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/attributes/prop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/attributes/prop.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/attributes/prop.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/selection/property.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/selection/property.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/property.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/property.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/locale/pt-BR.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/locale/pt-BR.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/pt-BR.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/pt-BR.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/var/push.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/var/push.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/var/push.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/var/push.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geom/quadtree.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geom/quadtree.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geom/quadtree.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geom/quadtree.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/quantile.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/quantile.js" />
@@ -811,6 +883,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/scale/quantize.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/scale/quantize.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/scale/quantize.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/scale/quantize.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/queue.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/queue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/queue.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/queue.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/crossfilter/src/quicksort.js" afterPath="$PROJECT_DIR$/res/node_modules/crossfilter/src/quicksort.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/src/quicksort.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/src/quicksort.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/math/random.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/math/random.js" />
@@ -818,7 +891,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/range.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/range.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/range.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/range.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/manipulation/var/rcheckableType.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/manipulation/var/rcheckableType.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/manipulation/var/rcheckableType.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/manipulation/var/rcheckableType.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/core/ready.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/core/ready.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/core/ready.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/core/ready.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/core/rebind.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/core/rebind.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/core/rebind.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/core/rebind.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geom/voronoi/red-black.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geom/voronoi/red-black.js" />
@@ -846,9 +921,13 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/interpolate/rgb.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/interpolate/rgb.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/examples/right-axis.html" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/examples/right-axis.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/css/var/rmargin.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/css/var/rmargin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/css/var/rmargin.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/css/var/rmargin.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/traversing/var/rneedsContext.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/traversing/var/rneedsContext.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/traversing/var/rneedsContext.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/traversing/var/rneedsContext.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/var/rnotwhite.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/var/rnotwhite.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/var/rnotwhite.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/var/rnotwhite.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/css/var/rnumnonpx.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/css/var/rnumnonpx.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/css/var/rnumnonpx.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/css/var/rnumnonpx.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/geo/rotation.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/geo/rotation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/rotation.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/rotation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/format/round.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/format/round.js" />
@@ -858,7 +937,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/spec/row-chart-spec.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/spec/row-chart-spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/src/row-chart.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/src/row-chart.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/var/rquery.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/var/rquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/var/rquery.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/var/rquery.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/core/var/rsingleTag.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/core/var/rsingleTag.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/core/var/rsingleTag.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/core/var/rsingleTag.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/locale/ru-RU.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/locale/ru-RU.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/ru-RU.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/locale/ru-RU.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/grunt/sauce_browsers.yml" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/grunt/sauce_browsers.yml" />
@@ -875,6 +956,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/examples/scatter-series.html" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/examples/scatter-series.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/examples/scatter.html" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/examples/scatter.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/script.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/script.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/js/scrollspy.js" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/js/scrollspy.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/time/second.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/time/second.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/time/second.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/time/second.js" />
@@ -889,9 +971,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/selection/selection.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/selection/selection.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/selection.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/selection.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/selector-native.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/selector-native.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/selector-native.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/selector-native.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/selector-sizzle.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/selector-sizzle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/selector-sizzle.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/selector-sizzle.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/selector.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/selector.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/selector.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/selector.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/unit/selector.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/unit/selector.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/serialize.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/serialize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/serialize.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/serialize.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/spec/series-chart-spec.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/spec/series-chart-spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/src/series-chart.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/src/series-chart.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/examples/series.html" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/examples/series.html" />
@@ -909,9 +996,13 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/size.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/size.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/size.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/size.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/sizzle/dist/sizzle.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/sizzle/dist/sizzle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/dist/sizzle.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/dist/sizzle.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/sizzle/dist/sizzle.min.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/sizzle/dist/sizzle.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/dist/sizzle.min.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/dist/sizzle.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/sizzle/dist/sizzle.min.map" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/sizzle/dist/sizzle.min.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/dist/sizzle.min.map" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/dist/sizzle.min.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/var/slice.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/var/slice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/var/slice.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/var/slice.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/selection/sort.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/selection/sort.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/sort.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/selection/sort.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/core/source.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/core/source.js" />
@@ -941,6 +1032,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/interpolate/string.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/interpolate/string.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/interpolate/string.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/interpolate/string.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/var/strundefined.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/var/strundefined.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/var/strundefined.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/var/strundefined.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/compat/style.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/compat/style.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/selection/style.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/selection/style.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/transition/style.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/transition/style.js" />
@@ -958,9 +1050,15 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/event/support.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/event/support.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/manipulation/support.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/manipulation/support.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/var/support.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/var/support.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/attributes/support.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/attributes/support.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/css/support.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/css/support.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/event/support.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/event/support.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/manipulation/support.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/manipulation/support.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/var/support.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/var/support.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/svg/svg.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/svg/svg.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/svg/svg.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/svg/svg.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/css/swap.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/css/swap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/css/swap.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/css/swap.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/svg/symbol.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/svg/symbol.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/svg/symbol.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/svg/symbol.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/tab-focus.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/tab-focus.less" />
@@ -969,6 +1067,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/tables.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/tables.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/core/target.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/core/target.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/core/target.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/core/target.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/data/testinit.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/data/testinit.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/text-emphasis.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/text-emphasis.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/text-overflow.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/mixins/text-overflow.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/selection/text.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/selection/text.js" />
@@ -990,6 +1089,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/event/timer.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/event/timer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/event/timer.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/event/timer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/var/toString.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/var/toString.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/var/toString.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/var/toString.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/js/tooltip.js" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/js/tooltip.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/tooltip.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/tooltip.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/event/touch.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/event/touch.js" />
@@ -1014,6 +1114,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/transverse-mercator.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/transverse-mercator.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/trasnform_matrix.css" afterPath="$PROJECT_DIR$/styles/trasnform_matrix.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/traversing.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/traversing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/traversing.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/traversing.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/layout/tree.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/layout/tree.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/layout/tree.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/layout/tree.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/layout/treemap.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/layout/treemap.js" />
@@ -1033,10 +1134,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/interpolate/uninterpolate.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/interpolate/uninterpolate.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/geo/us-counties.json" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/geo/us-counties.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/geo/us-states.json" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/geo/us-states.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/unit/utilities.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/unit/utilities.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/utilities.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/utilities.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/spec/utils-spec.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/spec/utils-spec.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/src/utils.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/src/utils.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/attributes/val.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/attributes/val.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/attributes/val.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/attributes/val.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/values.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/values.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/values.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/values.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/variables.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/variables.less" />
@@ -1054,9 +1157,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/wells.less" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/wells.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/wrap.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/wrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/wrap.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/wrap.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/xhr.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/ajax/xhr.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/xhr/xhr.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/xhr/xhr.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/xhr/xhr.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/xhr/xhr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/xhr.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/ajax/xhr.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/xhr/xml.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/xhr/xml.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/xhr/xml.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/xhr/xml.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/color/xyz.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/color/xyz.js" />
@@ -1095,11 +1200,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.83601284">
-              <caret line="107" column="55" selection-start-line="107" selection-start-column="55" selection-end-line="107" selection-end-column="55" />
+            <state vertical-scroll-proportion="-9.076923">
+              <caret line="60" column="42" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base-partial.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/partials/base-partial.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainModule.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/mainModule.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -1140,16 +1265,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mainModule.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scripts/mainModule.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -1208,11 +1323,12 @@
         <option value="$PROJECT_DIR$/scripts/chartsModule.js" />
         <option value="$PROJECT_DIR$/partials/coolHeading.html" />
         <option value="$PROJECT_DIR$/scripts/app.js" />
-        <option value="$PROJECT_DIR$/scripts/mainModule.js" />
         <option value="$PROJECT_DIR$/scripts/coolHeadingDirective.js" />
         <option value="$PROJECT_DIR$/scripts/chartsDirective.js" />
         <option value="$PROJECT_DIR$/partials/chart.html" />
+        <option value="$PROJECT_DIR$/scripts/mainModule.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/partials/base-partial.html" />
       </list>
     </option>
   </component>
@@ -1224,10 +1340,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="width" value="1696" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -1252,8 +1368,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1296,64 +1410,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="D3Testin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="D3Testin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="D3Testin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="D3Testin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
+              <option name="myItemId" value="partials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1419,26 +1483,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="1912" y="-8" width="1696" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.134375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15379976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1449,6 +1513,62 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/partials/coolHeading.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/bower_components/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1274" column="3" selection-start-line="1274" selection-start-column="1" selection-end-line="1274" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/mainModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/chartsDirective.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/chart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1763,14 +1883,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/mainModule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/coolHeadingDirective.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1781,8 +1893,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83601284">
-          <caret line="107" column="55" selection-start-line="107" selection-start-column="55" selection-end-line="107" selection-end-column="55" />
+        <state vertical-scroll-proportion="-9.076923">
+          <caret line="60" column="42" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/mainModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/base-partial.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
           <folding />
         </state>
       </provider>

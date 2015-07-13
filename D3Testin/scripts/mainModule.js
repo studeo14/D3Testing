@@ -6,7 +6,7 @@
 
     angular.module("myApp.main",[])
 
-        .controller("MainController",function($scope, $window){
+        .controller("MainController",['$scope', '$window','$compile',function($scope, $window, $compile){
 
             /*
              Helper functions
@@ -48,7 +48,16 @@
                     active:false
                 }
             ];
-        })
+            $scope.loadChart = function(id){
+                var $f = $("#"+id);
+                $f.html(' ');
+                $.get("./partials/"+id+"-partial.html",function(d){
+                    var c = $compile(d)($scope);
+                    var $c = $(c);
+                    $c.appendTo("#"+id);
+                },'html');
+            }
+        }])
 
     ;
 }());
