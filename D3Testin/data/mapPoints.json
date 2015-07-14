@@ -1,0 +1,25 @@
+{
+  "points": [
+    {
+      "name": "start", "x": 10, "y":20, "info": "This is the starting point, it is where we will start."
+    },
+    {
+      "name": "start2", "x": 75, "y":98, "info": "Not the starting point.."
+    },
+    {
+      "name": "start3", "x": 300, "y":40, "info": "Not the starting point."
+    },
+    {
+      "name": "start4", "x": 258, "y":360, "info": "Not the starting point."
+    },
+    {
+      "name": "start5", "x": 20, "y":100, "info": "Not the starting point."
+    },
+    {
+      "name": "start6", "x": 30, "y":30, "info": "Not the starting point."
+    },
+    {
+      "name": "start7", "x": 100, "y":100, "info": "This is the end point, it is where we will end."
+    }
+  ]
+}

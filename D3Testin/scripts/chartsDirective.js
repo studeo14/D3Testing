@@ -60,8 +60,8 @@
                 replace: true,
                 controller: 'ChartController',
                 templateUrl: 'partials/chart.html',
-                link: function(scope, elem, attrs, chartController){
-                    chartController.init(elem);
+                link: function(scope, elem, attrs, ChartController){
+                    ChartController.init(elem);
                 }
 
             };
