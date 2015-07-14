@@ -8,7 +8,7 @@
         .controller('MapController',['$scope', function($scope){
             $scope.title = ($scope.title)?$scope.title:"";
             $scope.pathToPoints =($scope.points)?$scope.points:'data/mapPoints.json';
-            $scope.mapImg = ($scope.background)?$scope.background:'images/mapImage.png';
+            $scope.background = ($scope.background)?$scope.background:'images/mapImage.png';
             $scope.tip = d3.tip().attr('class','d3-tip').html(function(d){return '<span class="text-capitalize">'+ d.name+'</span><br><span>'+ d.info+'</span>';});
 
             function getData(el){
@@ -19,7 +19,7 @@
                         if(xmlhttp.readyState == 4 && xmlhttp.status == 200){
                             console.log("Called");
                             $scope.points = JSON.parse(xmlhttp.responseText);
-                            makeNewMap($scope.points, $scope.mapImg, el);
+                            makeNewMap($scope.points, $scope.background, el);
                             console.log($scope.points);
                         }
                     };
@@ -38,8 +38,11 @@
                     $scope.svg = d3.select(_e[0])
                         .append("svg")
                         .style("background-image", "url('"+_m+"')")
+                        .style("background-size", "100% auto")
                         .style('width','100%')
-                        .style('height', 'auto')
+                        .style('height', '100%')
+                        .style('max-height','100%')
+                        .style('z-index', '1')
                         .call($scope.tip);
                     $scope.svg.selectAll('circle')
                         .data(_p.points).enter()

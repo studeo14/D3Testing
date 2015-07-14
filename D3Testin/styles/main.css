@@ -37,3 +37,13 @@ circle:hover{
     position: absolute;
     pointer-events: none;
 }
+.map-img{
+    width:100%;
+    height:auto;
+    z-index:-1;
+}
+svg{
+    z-index:2;
+    position: relative;
+    max-height:100%;
+}

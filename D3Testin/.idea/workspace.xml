@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9254fb83-8d06-4823-b4ba-d6aeb996bd16" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mapImage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/mapDirective.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/mapPoints.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/crosswindApproach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/crosswind.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/angular/angular.min.js.gzip" afterPath="$PROJECT_DIR$/res/bower_components/angular/angular.min.js.gzip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/ep/blank.gif" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/ep/blank.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/dc.logo.png" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/dc.logo.png" />
@@ -19,12 +17,16 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/img/glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/img/glyphicons-halflings-white.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/img/glyphicons-halflings.png" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/img/glyphicons-halflings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mapImage.png" afterPath="$PROJECT_DIR$/images/mapImage.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/angular/.bower.json" afterPath="$PROJECT_DIR$/res/bower_components/angular/.bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/.bower.json" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3/.bower.json" afterPath="$PROJECT_DIR$/res/bower_components/d3/.bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3-tip/.bower.json" afterPath="$PROJECT_DIR$/res/bower_components/d3-tip/.bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/.bower.json" afterPath="$PROJECT_DIR$/res/bower_components/jquery/.bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/.bowerrc" afterPath="$PROJECT_DIR$/res/node_modules/jquery/.bowerrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/.csscomb.json" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/.csscomb.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/less/.csslintrc" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/less/.csslintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3/.gitattributes" afterPath="$PROJECT_DIR$/res/bower_components/d3/.gitattributes" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/.gitattributes" afterPath="$PROJECT_DIR$/res/node_modules/d3/.gitattributes" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/.gitattributes" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/.gitattributes" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/js/.jscsrc" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/js/.jscsrc" />
@@ -48,6 +50,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/.travis.yml" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/crossfilter/.travis.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/AUTHORS.txt" afterPath="$PROJECT_DIR$/res/node_modules/jquery/AUTHORS.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/AUTHORS" afterPath="$PROJECT_DIR$/res/node_modules/dc/AUTHORS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/res/bower_components/d3/CONTRIBUTING.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/crossfilter/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/res/node_modules/crossfilter/CONTRIBUTING.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/res/node_modules/d3/CONTRIBUTING.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/res/node_modules/dc/CONTRIBUTING.md" />
@@ -62,6 +65,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/Gruntfile.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/Gruntfile.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/LICENSE" afterPath="$PROJECT_DIR$/res/LICENSE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/LICENSE" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3/LICENSE" afterPath="$PROJECT_DIR$/res/bower_components/d3/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3-tip/LICENSE" afterPath="$PROJECT_DIR$/res/bower_components/d3-tip/LICENSE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/crossfilter/LICENSE" afterPath="$PROJECT_DIR$/res/node_modules/crossfilter/LICENSE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/LICENSE" afterPath="$PROJECT_DIR$/res/node_modules/d3/LICENSE" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/LICENSE" afterPath="$PROJECT_DIR$/res/node_modules/dc/LICENSE" />
@@ -76,6 +81,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/Makefile" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/Makefile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/angular/README.md" afterPath="$PROJECT_DIR$/res/bower_components/angular/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/README.md" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3/README.md" afterPath="$PROJECT_DIR$/res/bower_components/d3/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3-tip/README.md" afterPath="$PROJECT_DIR$/res/bower_components/d3-tip/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/crossfilter/README.md" afterPath="$PROJECT_DIR$/res/node_modules/crossfilter/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/README.md" afterPath="$PROJECT_DIR$/res/node_modules/d3/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/README.md" afterPath="$PROJECT_DIR$/res/node_modules/dc/README.md" />
@@ -202,6 +209,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/bounds.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/geo/bounds.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/angular/bower.json" afterPath="$PROJECT_DIR$/res/bower_components/angular/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/bower.json" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3/bower.json" afterPath="$PROJECT_DIR$/res/bower_components/d3/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3-tip/bower.json" afterPath="$PROJECT_DIR$/res/bower_components/d3-tip/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/bower.json" afterPath="$PROJECT_DIR$/res/bower_components/jquery/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/bower.json" afterPath="$PROJECT_DIR$/res/node_modules/d3/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/bower.json" afterPath="$PROJECT_DIR$/res/node_modules/dc/bower.json" />
@@ -348,11 +357,13 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/examples/cust.html" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/examples/cust.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/spec/helpers/custom_matchers.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/spec/helpers/custom_matchers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/src/d3.box.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/src/d3.box.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3/d3.js" afterPath="$PROJECT_DIR$/res/bower_components/d3/d3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/d3.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/d3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/d3.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/d3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/d3.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/d3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/d3.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/d3.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/js/d3.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/js/d3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3/d3.min.js" afterPath="$PROJECT_DIR$/res/bower_components/d3/d3.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/d3.min.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/d3.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/d3.min.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/d3.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/spec/data-addition-spec.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/spec/data-addition-spec.js" />
@@ -586,6 +597,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/web/vc/index.html" afterPath="$PROJECT_DIR$/res/node_modules/dc/web/vc/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/index.html" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/sizzle/test/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/angular/index.js" afterPath="$PROJECT_DIR$/res/bower_components/angular/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3-tip/index.js" afterPath="$PROJECT_DIR$/res/bower_components/d3-tip/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/crossfilter/index.js" afterPath="$PROJECT_DIR$/res/node_modules/crossfilter/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/index.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/index.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/index.js" />
@@ -708,8 +720,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/mainModule.js" afterPath="$PROJECT_DIR$/scripts/mainModule.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/jquery/src/manipulation.js" afterPath="$PROJECT_DIR$/res/bower_components/jquery/src/manipulation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/jquery/src/manipulation.js" afterPath="$PROJECT_DIR$/res/node_modules/jquery/src/manipulation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/map.html" afterPath="$PROJECT_DIR$/partials/map.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/map.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/map.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/map.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/mapDirective.js" afterPath="$PROJECT_DIR$/scripts/mapDirective.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/mapPoints.json" afterPath="$PROJECT_DIR$/data/mapPoints.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/src/margin-mixin.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/src/margin-mixin.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/max.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/arrays/max.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/max.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/arrays/max.js" />
@@ -798,10 +813,12 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/src/layout/pack.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/src/layout/pack.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/layout/pack.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/src/layout/pack.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/package.js" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/package.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3/package.js" afterPath="$PROJECT_DIR$/res/bower_components/d3/package.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/package.js" afterPath="$PROJECT_DIR$/res/node_modules/d3/package.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/package.js" afterPath="$PROJECT_DIR$/res/node_modules/dc/node_modules/d3/package.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/angular/package.json" afterPath="$PROJECT_DIR$/res/bower_components/angular/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/bootstrap/package.json" afterPath="$PROJECT_DIR$/res/bower_components/bootstrap/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/bower_components/d3-tip/package.json" afterPath="$PROJECT_DIR$/res/bower_components/d3-tip/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/crossfilter/package.json" afterPath="$PROJECT_DIR$/res/node_modules/crossfilter/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/d3/package.json" afterPath="$PROJECT_DIR$/res/node_modules/d3/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/node_modules/dc/package.json" afterPath="$PROJECT_DIR$/res/node_modules/dc/package.json" />
@@ -1207,18 +1224,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.076923">
-              <caret line="97" column="60" selection-start-line="97" selection-start-column="60" selection-end-line="97" selection-end-column="60" />
+            <state vertical-scroll-proportion="-9.0">
+              <caret line="68" column="80" selection-start-line="68" selection-start-column="80" selection-end-line="68" selection-end-column="80" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mapDirective.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="crosswind.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/crosswind.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.307692">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mapDirective.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/mapDirective.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.48166665">
+              <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -1247,8 +1274,8 @@
       <file leaf-file-name="map.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partials/map.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.65384614">
-              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+            <state vertical-scroll-proportion="-1.3076923">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -1286,11 +1313,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43333334">
-              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -1324,10 +1351,11 @@
         <option value="$PROJECT_DIR$/partials/base-partial.html" />
         <option value="$PROJECT_DIR$/scripts/app.js" />
         <option value="$PROJECT_DIR$/scripts/chartsDirective.js" />
-        <option value="$PROJECT_DIR$/partials/map.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/styles/main.css" />
         <option value="$PROJECT_DIR$/data/mapPoints.json" />
+        <option value="$PROJECT_DIR$/data/crosswind.json" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/partials/map.html" />
+        <option value="$PROJECT_DIR$/styles/main.css" />
         <option value="$PROJECT_DIR$/scripts/mapDirective.js" />
       </list>
     </option>
@@ -1411,84 +1439,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="D3Testin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="D3Testin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="D3Testin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="D3Testin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="D3Testin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="D3Testin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="D3Testin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="D3Testin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="D3Testin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="D3Testin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1605,14 +1555,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/partials/chart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1927,16 +1869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/chart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.461538">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/chartsDirective.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1963,23 +1895,23 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/map.html">
+    <entry file="file://$PROJECT_DIR$/data/crosswind.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        <state vertical-scroll-proportion="-18.307692">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.076923">
-          <caret line="97" column="60" selection-start-line="97" selection-start-column="60" selection-end-line="97" selection-end-column="60" />
+        <state vertical-scroll-proportion="-9.0">
+          <caret line="68" column="80" selection-start-line="68" selection-start-column="80" selection-end-line="68" selection-end-column="80" />
           <folding />
         </state>
       </provider>
@@ -1992,18 +1924,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/mapDirective.js">
+    <entry file="file://$PROJECT_DIR$/partials/chart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43333334">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/mapDirective.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48166665">
+          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
           <folding />
         </state>
       </provider>

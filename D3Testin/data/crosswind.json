@@ -1,0 +1,31 @@
+{
+  "points":[
+    {
+      "name":"Downwind Entry Point", "x":960, "y": 160, "info":"Where the airplane enters the downwind leg."
+    },
+    {
+      "name":"Point A", "x":390, "y": 160, "info":""
+    },
+    {
+      "name":"Downwind Exit Point", "x":300, "y": 160, "info":""
+    },
+    {
+      "name":"Crosswind Apex", "x":225, "y": 310, "info":""
+    },
+    {
+      "name":"Localizer Entry Point", "x":240, "y": 480, "info":""
+    },
+    {
+      "name":"Centerline Crossing Point", "x":300, "y": 500, "info":""
+    },
+    {
+      "name":"Point of maximum Overshoot", "x":350, "y": 515, "info":""
+    },
+    {
+      "name":"Point Over Threshold", "x":585, "y": 490, "info":""
+    },
+    {
+      "name":"Final Airborne Track Report", "x":690, "y": 490, "info":""
+    }
+  ]
+}
