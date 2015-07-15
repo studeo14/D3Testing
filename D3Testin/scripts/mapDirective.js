@@ -10,7 +10,8 @@
             $scope.pathToPoints =($scope.points)?$scope.points:'data/mapPoints.json';
             $scope.background = ($scope.background)?$scope.background:'images/mapImage.png';
             $scope.tip = d3.tip().attr('class','d3-tip').html(function(d){return '<span class="text-capitalize">'+ d.name+'</span><br><span>'+ d.info+'</span>';});
-
+            $scope.imgWidth = ($scope.imgWidth)?$scope.imgWidth:0;
+            $scope.imgHeight = ($scope.imgHeight)?$scope.imgHeight:0;
             function getData(el){
                 try{
                     var xmlhttp = new XMLHttpRequest();
@@ -33,22 +34,25 @@
 
             function makeNewMap(_p, _m, _e){
 
+                var parentWidth = $(_e[0]).width();
+                var ratio = parentWidth/$scope.imgWidth;
+                var seenWidth = $scope.imgWidth*ratio, seenHeight = $scope.imgHeight*ratio;
+
                 if($scope.points.hasOwnProperty('points')){
                     console.log(_p.points);
                     $scope.svg = d3.select(_e[0])
                         .append("svg")
                         .style("background-image", "url('"+_m+"')")
                         .style("background-size", "100% auto")
-                        .style('width','100%')
-                        .style('height', '100%')
-                        .style('max-height','100%')
+                        .style('width',''+seenWidth+'')
+                        .style('height', ''+seenHeight+'')
                         .style('z-index', '1')
                         .call($scope.tip);
                     $scope.svg.selectAll('circle')
                         .data(_p.points).enter()
                         .append('circle')
-                        .attr('cx',function(d){return d.x;})
-                        .attr('cy',function(d){return d.y;})
+                        .attr('cx',function(d){return d.x * ratio;})
+                        .attr('cy',function(d){return d.y * ratio;})
                         .attr('r', 7)
                         .attr('fill', 'purple')
                         .on("mouseover",function(d){
@@ -78,8 +82,8 @@
                     points: '@',
                     background: '@',
                     title: '@',
-                    width: '@',
-                    height: '@'
+                    imgWidth: '@',
+                    imgHeight: '@'
                 },
                 replace:true,
                 controller: 'MapController',
