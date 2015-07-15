@@ -17,6 +17,7 @@ circle:hover{
 
 }
 .d3-tip {
+    z-index:2;
     line-height: 1;
     font-weight: bold;
     padding: 7px;
@@ -28,6 +29,7 @@ circle:hover{
 
 /* Creates a small triangle extender for the tooltip */
 .d3-tip:after {
+    z-index:2;
     box-sizing: border-box;
     display: inline;
     font-size: 10px;
@@ -43,7 +45,7 @@ circle:hover{
     z-index:-1;
 }
 svg{
-    z-index:2;
+    z-index:1;
     position: relative;
     max-height:100%;
 }

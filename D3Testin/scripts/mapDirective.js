@@ -59,15 +59,9 @@
                             $scope.tip.hide(d);
                             d3.select(this).attr("r",7);
                         });
-                }else{
+                }else {
                     d3.select(_e[0])
                         .text("ERROR LOADING DATA");
-                }
-                function inFunc(){
-
-                }
-                function outFunc(){
-
                 }
             }
 
@@ -83,7 +77,9 @@
                     mapId: '@',
                     points: '@',
                     background: '@',
-                    title: '@'
+                    title: '@',
+                    width: '@',
+                    height: '@'
                 },
                 replace:true,
                 controller: 'MapController',
