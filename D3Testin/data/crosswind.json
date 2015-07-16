@@ -1,31 +1,40 @@
 {
   "points":[
     {
-      "name":"Downwind Entry Point", "x":960, "y": 160, "info":"Where the airplane enters the downwind leg."
+      "name":"Downwind Entry Point", "x":1081, "y": 128, "info":"Where the aircraft enters the downwind leg. Includes the entry angle.", "color":"red", "items":["Entry Angle","Groundspeed","IAS"]
     },
     {
-      "name":"Point A", "x":390, "y": 160, "info":""
+      "name":"Point Abeam to the Threshold", "x":832, "y": 128, "info":"The point where the aircraft crosses a perpendicular to the runway.", "color":"red"
     },
     {
-      "name":"Downwind Exit Point", "x":300, "y": 160, "info":""
+      "name":"Downwind Exit Point", "x":290, "y": 128, "info":"Where the aircraft exits the parallel leg and enters the base leg.", "color":"blue"
     },
     {
-      "name":"Crosswind Apex", "x":225, "y": 310, "info":""
+      "name":"Crosswind Apex", "x":158, "y": 288, "info":"The apex of the base leg turn.", "color":"red"
     },
     {
-      "name":"Localizer Entry Point", "x":240, "y": 480, "info":""
+      "name":"Localizer Entry Point", "x":575, "y": 458, "info":"Where the aircraft enters the localizer", "color":"yellow"
     },
     {
-      "name":"Centerline Crossing Point", "x":300, "y": 500, "info":""
+      "name":"Centerline Crossing Point", "x":293, "y": 456, "info":"Where the aircraft enters the approach leg.", "color":"red"
     },
     {
-      "name":"Point of maximum Overshoot", "x":350, "y": 515, "info":""
+      "name":"Point of Maximum Overshoot", "x":336, "y": 480, "info":"The furthest distance from the approach leg centerline that the aircraft reaches.", "color":"purple"
     },
     {
-      "name":"Point Over Threshold", "x":585, "y": 490, "info":""
+      "name":"Final Approach Deviation", "x":705, "y":475, "info":"", "color":"purple"
     },
     {
-      "name":"Final Airborne Track Report", "x":690, "y": 490, "info":""
+      "name":"Point Over Threshold", "x":833, "y": 458, "info":"WHere the aircraft passes over the end of the runway.", "color":"red"
+    },
+    {
+      "name":"Final Airborne Track Report", "x":870, "y": 458, "info":"The last point where data was recorded; location varies by airport.", "color":"green"
+    },
+    {
+      "name":"Downwind Entry Angle", "x":1080, "y": 105, "color":"white"
+    },
+    {
+      "name":"Downwind Deviation From Parallel", "x":355, "y": 114, "info":"The angle of deviation from the parallel downwind leg.", "color":"white"
     }
   ]
 }
