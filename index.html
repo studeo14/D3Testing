@@ -38,7 +38,7 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav" ng-repeat="tab in tabs">
-                <li ng-class="{'active':tab.key===activeTab}" ng-click="setActive(tab.key)"><a href="#{{tab.name}}">{{tab.name}}</a></li>
+                <li ng-class="{'active':tab.key===activeTab}" ng-click="setActive(tab.key)"><a href="{{(tab.key==='em')?tab.link:'#'+tab.name}}">{{tab.name}}</a></li>
             </ul>
         </div><!--/.nav-collapse -->
     </div>

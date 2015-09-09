@@ -35,17 +35,22 @@
                 {
                     name:"Home",
                     key:"hm",
-                    active:true
+                    link:true
                 },
                 {
                     name:"Other",
                     key:"ot",
-                    active:false
+                    link:false
                 },
                 {
                     name:"Moar",
                     key:"mo",
-                    active:false
+                    link:false
+                },
+                {
+                    name:"Email",
+                    key:"em",
+                    link:"/squirrelmail"
                 }
             ];
             $scope.loadChart = function(id){
